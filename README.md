@@ -1,6 +1,6 @@
 # ATLAS-CROSS: Картографія контрольованого інтелекту
 
-**Офіційний репозиторій цього релізу:** [github.com/dmytro-kosolap/ATLAS-CROSS](https://github.com/dmytro-kosolap/ATLAS-CROSS)  
+**Офіційний репозиторій цього релізу:** [github.com/dmytro-kosolap/ATLAS-CROSS](https://github.com/dmytro-kosolap/ATLAS)  
 **Статус:** ACTIVE / OPERATIONAL  
 **Версія:** 2.0 (Release "Infrastructural Turn")  
 **Коефіцієнт суверенності (K_s):** 0.15 (Educational Immunity)
